@@ -2,6 +2,13 @@
 
 This repository contains my homelab documentation and infrastructure files. Here, you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.
 
+## Table of Content
+
+- [Prerequisite](#prerequisite)
+- [Homelab's Software](#homelabs-software)
+- [Setup Proxmox](#setup-proxmox)
+- [Promox Community Helper Scripts](#promox-community-helper-scripts)
+
 ## Prerequisite
 
 
